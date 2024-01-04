@@ -49,6 +49,9 @@ I do not take responsibility for any illegal/unsafe usage of the program, neithe
 # Happy injecting! Note: 
 ### Remember, this is a beta but I will be adding more to the github and updating it very often, good luck.
 
+# WARNING
+### You are not allowed to reverse engineer or modify this project, legal action will be involved if you do! I made an anti for it.
+
 # MIT License
 
 Copyright (c) 2024 devllz
@@ -56,7 +59,7 @@ Copyright (c) 2024 devllz
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+to use, copy, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
